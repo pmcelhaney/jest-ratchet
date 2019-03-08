@@ -49,10 +49,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-9.3.0.tgz#3a129cda7c4e5df2409702626892cb4b96546dd5"
   integrity sha512-wNBfvNjzsJl4tswIZKXCFQY0lss9nKUyJnG6T94X/eqjRgI2jHZ4evdjhQYBSan/vGtF6XVXPApOmNH2rf0KKw==
 
-"@types/node@11.9.2":
-  version "11.9.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-11.9.2.tgz#806126bdb6b1d7adcbff39170e5c95b19d3ec0d4"
-  integrity sha512-MMwOkF+sy8LlSN2jLTGtwTcfqVN3H1WaCRO8gVaySVMJtOiZR+9V0y/3UprGi0rx6X7OrWGKGUtSviGVT44W3A==
+"@types/node@11.10.6":
+  version "11.10.6"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-11.10.6.tgz#f8eed81174467679fa127a1dbafbfe30c5b188f1"
+  integrity sha512-OUFTF4A3Lgo3kkisJ60r8BWycCkABa8v7KpqGXY3SusQAQQaFO05wa45ZBwVv4n0gkYA8G6i/Bk9zI6dx5Ss6A==
 
 abab@^1.0.3:
   version "1.0.4"
